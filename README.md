@@ -14,6 +14,8 @@ While cryo-ET provides detailed 3D images of cells in near-native states, automa
 
 This project addresses these limitations by offering a tool to **automatically identify the presence and location of flagellar motors** in tomograms.
 
+![results](https://github.com/user-attachments/assets/98f68ebb-aab2-4402-9ec5-e862482202b1)
+
 ## 📏 Metrics
 
 | Metric    | Value   |
