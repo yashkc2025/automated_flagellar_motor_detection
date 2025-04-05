@@ -21,7 +21,7 @@ This project addresses these limitations by offering a tool to **automatically i
 | Precision | ~84.5%  |
 | Recall    | ~84.0%  |
 | F1 Score  | ~84.3%  |
-| mAP50     | ~87.2%  |
+| mAP50     | ~86.6%  |
 | mAP50-95  | ~42.03% |
 
 > The `best` model weight can be downloaded from `models` directory.
