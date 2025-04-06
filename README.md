@@ -28,6 +28,7 @@ This project addresses these limitations by offering a tool to **automatically i
 
 > The `best` model weight can be downloaded from `models` directory.
 
+![Metrics](https://raw.githubusercontent.com/yashkc2025/automated_flagellar_motor_detection/refs/heads/main/graphics/results.png)
 ## ✨ Features
 
 - ✅ Automatic detection of flagellar motors in cryo-ET tomograms
