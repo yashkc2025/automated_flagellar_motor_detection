@@ -1,4 +1,4 @@
-# 🧬 Automated Flagellar Motor Detection in Cryo-ET
+# 🧬 Automated Flagellar Motor Localization in Cryo-ET
 
 This project provides an automated image processing pipeline using **YOLOv8 medium size model** for detecting **flagellar motors** in **cryo-electron tomography (cryo-ET)** data. The algorithm is designed to reduce manual annotation and improve scalability in the analysis of microbial motility machinery.
 
